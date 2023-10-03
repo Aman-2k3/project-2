@@ -1,1 +1,1 @@
-# This is my second project for web dev and this is a clone of cococola website
+# This is my second project for web dev and this is a clone of cocacola website
